@@ -1,6 +1,6 @@
 {
-    "name": "AuthorNathan/qb_query",
-    "description": "A simple project",
+    "name": "nanyinet/qb_query",
+    "description": "QB查询中心",
     "type": "library",
     "license": "MIT",
     "authors": [
