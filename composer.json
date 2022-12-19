@@ -1,0 +1,21 @@
+{
+    "name": "nathan/qb_query",
+    "description": "A simple project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ZhaoZeNan",
+            "email": "2322796106@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyProject\\": "src/"
+        }
+    }
+}
