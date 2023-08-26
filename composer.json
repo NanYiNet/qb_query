@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.3",
-        "nanyinet/qb_query": "1.0.0"
+        "nanyinet/qb_query": "^1.0"
     },
     "autoload": {
         "psr-4": {
